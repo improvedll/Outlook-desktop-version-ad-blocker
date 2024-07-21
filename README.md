@@ -1,4 +1,4 @@
-Manual Installation Instructions
+    Manual Installation Instructions
 
 1.  Open a Text Editor with Administrative Privileges:
 2.  Launch a text editor of your choice as an administrator.
